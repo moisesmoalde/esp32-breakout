@@ -2,6 +2,8 @@
 
 A classic Breakout (Arkanoid-style) game implemented on an ESP32 microcontroller with an SSD1306 OLED display. The player controls a paddle via a potentiometer to bounce a ball and destroy bricks.
 
+![alt text](https://github.com/moisesmoalde/esp32-breakout/blob/main/play.gif?raw=true)
+
 ## Features
 - Smooth gameplay using double buffering and ESP32's dual cores (one for updates, one for rendering).
 - Potentiometer-controlled paddle with smoothing to reduce jitter.
