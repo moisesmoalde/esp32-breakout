@@ -16,6 +16,8 @@ A classic Breakout (Arkanoid-style) game implemented on an ESP32 microcontroller
 - Wiring:
   - OLED: SDA to GPIO 21, SCL to GPIO 22 (default I2C).
   - Potentiometer: Middle pin to GPIO 34, sides to 3.3V and GND.
+  ![alt text](https://github.com/moisesmoalde/esp32-breakout/blob/main/wiring.png?raw=true)
+
 
 ## Software Dependencies
 - Arduino IDE with ESP32 board support.
